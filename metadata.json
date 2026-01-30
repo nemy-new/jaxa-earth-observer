@@ -1,0 +1,5 @@
+{
+  "name": "JAXA Earth Observer",
+  "description": "A visualization tool using the JAXA Earth API for JavaScript to display satellite imagery and Digital Surface Models (DSM) with customizable color maps and regions.",
+  "requestFramePermissions": []
+}
